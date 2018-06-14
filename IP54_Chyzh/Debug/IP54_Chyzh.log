@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+d:\visual studio 2013\projects\kursova\ip54_chyzh\ip54_chyzh\InvForm.h(358): warning C4129: R: неизвестная escape-последовательность
+d:\visual studio 2013\projects\kursova\ip54_chyzh\ip54_chyzh\MyForm.h(661): warning C4129: T: неизвестная escape-последовательность
+d:\visual studio 2013\projects\kursova\ip54_chyzh\ip54_chyzh\MyForm.h(688): warning C4129: T: неизвестная escape-последовательность
+  IP54_Chyzh.vcxproj -> D:\Visual Studio 2013\Projects\Kursova\IP54_Chyzh\Debug\IP54_Chyzh.exe
